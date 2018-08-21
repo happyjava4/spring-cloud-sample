@@ -1,0 +1,5 @@
+shoppipng-api:
+  profile : REAL
+    said:
+      first: Hello
+      second: World

@@ -1,0 +1,5 @@
+shoppipng-api:
+  profile : LOCAL
+    said:
+      first: Hello
+      second: World

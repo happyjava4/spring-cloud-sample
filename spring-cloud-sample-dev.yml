@@ -1,0 +1,5 @@
+shoppipng-api:
+  profile : DEV
+    said:
+      first: Hello
+      second: World
